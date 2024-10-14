@@ -18,7 +18,7 @@ Invasion science has experienced substantial growth in recent decades, yet it re
 - **Cesar García-Periañez** - Independent researcher
 - **Phillip J. Haubrock** - University of South Bohemia in České Budějovice, Faculty of Fisheries and Protection of Waters, South Bohemian Research Center of Aquaculture and Biodiversity of Hydrocenoses, Zátiší 728/II, 389 25 Vodňany, Czech Republic; Department of River Ecology and Conservation, Senckenberg Research Institute and Natural History Museum Frankfurt, Gelnhausen, Germany; CAMB, Center for Applied Mathematics and Bioinformatics, Gulf University for Science and Technology, Kuwait. ORCID: 0000-0003-2154-4341
 
-✝Corresponding authors: [Ismael Soto](mailto:isma-sa@hotmail.com)
+✝Corresponding author: [Ismael Soto](mailto:isma-sa@hotmail.com)
 
 ### Prerequisites
 
